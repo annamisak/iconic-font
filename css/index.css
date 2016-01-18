@@ -12,6 +12,7 @@ html {
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
   font-family: sans-serif;
+  background-color: #d0ea57;
 }
 
 *, *:before, *:after {
@@ -21,5 +22,4 @@ html {
 header {
   width: 100%;
   text-align: center;
-  background-color: pink;
 }
