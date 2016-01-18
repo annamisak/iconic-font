@@ -70,7 +70,7 @@ h1 {
   animation: silly 2s ease-in-out infinite alternate;
 }
 
--webkit-@keyframes silly {
+@-webkit-keyframes silly {
   0% { -webkit-transform: translateY(0) scale(1.05,1.05); }
   20% { -webkit-transform: translateX(10%) rotate(-35deg) scale(2.05,2.05); }
   40% { -webkit-transform: translateY(15%) scale(1.05,1.05); }
@@ -95,7 +95,7 @@ h1 {
   animation: happy 3s ease-in-out infinite alternate;
 }
 
--webkit-@keyframes happy {
+@-webkit-keyframes happy {
   0% { -webkit-transform: translateY(0); }
   20% { -webkit-transform: translateY(30%); }
   40% { -webkit-transform: translateY(0%); }
@@ -120,7 +120,7 @@ h1 {
   animation: devious 2s ease-in-out infinite alternate;
 }
 
--webkit-@keyframes devious {
+@-webkit-keyframes devious {
   0% { -webkit-transform: scale(1,1); }
   20% { -webkit-transform: scale(1.5,1.5); }
   40% { -webkit-transform: scale(1,1); }
