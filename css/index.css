@@ -23,3 +23,22 @@ header {
   width: 100%;
   text-align: center;
 }
+
+.btn {
+  color: #a757ea;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+  margin: .5em;
+  font-size: 5em;
+}
+
+.btn:hover,
+.btn:active,
+.btn:focus {
+  color: #556d13;
+}
+
+.btn i {
+  vertical-align: middle;
+}
