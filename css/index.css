@@ -41,6 +41,7 @@ h1 {
 .btn:active,
 .btn:focus {
   color: #556d13;
+  text-decoration: underline;
 }
 
 .btn i {
