@@ -24,6 +24,10 @@ header {
   text-align: center;
 }
 
+h1 {
+  color: #556d13;
+}
+
 .btn {
   color: #a757ea;
   font-weight: bold;
