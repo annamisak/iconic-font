@@ -17,3 +17,9 @@ html {
 *, *:before, *:after {
 	box-sizing: inherit;
 }
+
+header {
+  width: 100%;
+  text-align: center;
+  background-color: pink;
+}
